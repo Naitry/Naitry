@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naitry
 - 👀 I’m interested in Physics, Engineering and Machine Learning
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning rust
 
 
 
