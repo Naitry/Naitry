@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naitry
+- 👋 Hi, I’m @Naitry (Tyler)
 - 👀 I’m interested in Physics, Engineering and Machine Learning
 - 🌱 I’m currently learning rust
 
