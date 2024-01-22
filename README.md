@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Naitry (Tyler)
 - 👀 I’m interested in Physics, Engineering and Machine Learning
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning haskell
+- working on my site at https://naitry.net
 
 
 
