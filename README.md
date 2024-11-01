@@ -1,1 +1,1 @@
-[https://naitry.net]
+https://naitry.net
