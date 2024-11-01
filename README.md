@@ -1,3 +1,3 @@
-My site: [https://naitry.net](naitry.net)
+My site: [naitry.net](https://naitry.net)
 
-Some other stuff I have worked on: [https://dina.engineering.uiowa.edu/](UIowa DINA)
+Some other stuff I have worked on: [UIowa DINA](https://dina.engineering.uiowa.edu/)
